@@ -24,3 +24,10 @@
   padding: 15px;
 
 }
+
+.date{
+ font-size: 16px;
+ font-weight: bold;
+ color: rgb(126, 8, 139);
+ font-family: 'Crimson Text', serif;
+}

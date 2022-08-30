@@ -27,8 +27,8 @@ const Greeting = () => {
     <>
    <div className={styles.box}>
    <h1 className={styles.greet} >Hello sir, <span style={cssStyle} >{greeting}</span>  </h1>
-    <h4 className={styles.date}>{`Date : ${time}`}</h4>
-    <h4 className={styles.date}>{`Time : ${time2}`}</h4>
+    <h4 ><span className={styles.date}>Date</span> {`: ${time}`}</h4>
+    <h4 ><span className={styles.date}>Time</span> {`: ${time2}`}</h4>
    </div>
     </>
   )
