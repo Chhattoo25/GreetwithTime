@@ -1,0 +1,45 @@
+.card{
+ border:2px solid red;
+ background-color: rgb(68, 66, 66);
+ padding: 20px;
+ text-align: center;
+ min-height: 100vh;
+ align-items: center;
+ box-shadow: 20px 20px 10px #fff;
+}
+ul{
+ list-style: none;
+ display: flex;
+ flex-wrap: wrap;
+}
+
+h1,p,h2{
+color: wheat;
+}
+
+
+
+.card_main{
+                     height: 150px;
+                     width: 400px;
+                     margin: 25px;
+                     align-items: center;
+                     background-color: rgb(116, 116, 209);
+}
+
+.card_inner{
+
+}
+
+.card_name{
+                     font-size: 25px;
+                     font-weight: bold;
+}
+
+.card_name span{
+                     font-size: 15px;
+}
+.card_total{
+                     font-size: 20px;
+                     font-weight: bold;
+}

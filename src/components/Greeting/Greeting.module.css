@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+*{
+ margin:0;
+ padding: 0%;
+ background-color: rgb(88, 151, 206);
+ box-sizing: border-box;
+ font-family: 'Crimson Text', serif;
+}
+
+
+.box{
+ width: 50%;
+ height: 200px;
+ margin: auto;
+ text-align: center;
+ align-items: center;
+ box-shadow: 15px 10px 100px rgb(213, 195, 195);
+}
+
+.greet{
+  margin-top: 30%;
+  text-align: center;
+  padding: 15px;
+
+}
